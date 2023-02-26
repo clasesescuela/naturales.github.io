@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+
+.tema{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+}
+
+.situacion{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
