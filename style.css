@@ -1,4 +1,15 @@
+
 body{
+    background-color: blue;
+}
+
+
+
+.materia{
+    display: flex;
+    justify-content: center;
+}
+    body{
     background-color: blue;
 }
 
