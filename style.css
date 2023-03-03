@@ -1,17 +1,7 @@
 body{
-    background-color: blue;
-}
-
-
-
-.tema{
-    background-color: blanchedalmond;
-    display: flex;
-    justify-content: center;
-}
-
-.situacion{
     background-color: brown;
+}
+.mmg{
     display: flex;
     justify-content: center;
 }
